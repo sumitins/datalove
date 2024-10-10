@@ -1,0 +1,23 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+defaultContentLanguage = "en"
+title = 'For the love of DATA!'
+theme = "dream"
+ 
+
+# zenMode = true
+
+lightTheme = "emerald"
+darkTheme = "forest"
+
+# backgroundImage = "me/background.jpg"
+# backgroundImageDark = ""
+
+#images = ["me/background.jpg"]
+
+author = "Jolene Wium"
+description = "Sumit Insights"
+#avatar = "me/yy.jpg"
+headerTitle = "Sumit Insights"
+motto = "For the love of DATA!"
+email = "g1enyy0ung@gmail.com"
