@@ -1,7 +1,7 @@
 ---
 title: Hi!
 date: 2024-10-10T10:26:18+02:00
-draft: true
+draft: false
 ---
 
 This site is dedicated to the undersatnding of our world thorugh data.

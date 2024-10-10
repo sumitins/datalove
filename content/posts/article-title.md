@@ -3,7 +3,7 @@ title: Smartiepants
 date: 2024-10-10T10:29:06+02:00
 lastmod: 2024-10-10T10:29:06+02:00
 author: Jolene Wium
-# avatar: /img/author.jpg
+avatar: /img/author.jpg
 # authorlink: https://author.site
 cover: /img/clusters.jpg
 # images:
