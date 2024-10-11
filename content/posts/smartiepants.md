@@ -4,7 +4,7 @@ date: 2024-10-10T10:29:06+02:00
 lastmod: 2024-10-10T10:29:06+02:00
 author: Jolene Wium
 avatar: img/author.jpg
-# authorlink: https://author.site
+authorlink: https://www.linkedin.com/in/jolenewium/
 cover: img/clusters.jpg
 # images:
 #   - /img/cover.jpg
